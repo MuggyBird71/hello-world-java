@@ -31,19 +31,19 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.  For the Hello World program, you will complete this at the end of Week 1.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/MuggyBird71/hello-world-java.git
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here: https://youtu.be/I5nPf4yrBHE
 
 3. Complete the following checklist by either indicating "Yes" or "No".  If you indicate "No" then provide an explanation of why.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
+|Are the links above public and working?                     |    x   |
+|Did you complete all the unique requirements for the module?|    x   |
 |Did you write at least 100 lines of code?                   | N/A    |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Did you fully complete the readme.md file?                  |    x   |
+|Did you put the readme.md file in GitHub in the top folder? |    x   |
 
 4. In each Sprint, you will have the opportunity to complete an optional Stretch Challenge for bonus points.  You will normally report what you did here.  There is no Stretch Challenge for Hello World.
 
@@ -51,8 +51,10 @@ This section should be filled out at the end of the Sprint and submitted.  For t
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|      30 minutes   |
 
 
 6. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+
+I started super early and it was fairly easy to learn how to write hello world in Java. I can definitely spend more time on projects, but considering this was a small project, the time was sufficient. 
 
